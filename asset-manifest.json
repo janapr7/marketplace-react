@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/marketplace-react/static/css/main.f31f695c.css",
-    "main.js": "/marketplace-react/static/js/main.236e5d46.js",
+    "main.css": "/marketplace-react/static/css/main.0c547da8.css",
+    "main.js": "/marketplace-react/static/js/main.9a8797c6.js",
     "static/js/787.c23b093c.chunk.js": "/marketplace-react/static/js/787.c23b093c.chunk.js",
     "static/media/Roboto-Regular.ttf": "/marketplace-react/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
     "static/media/Digital-Monospaced.ttf": "/marketplace-react/static/media/Digital-Monospaced.b4074b724b1de7a204a0.ttf",
@@ -9,12 +9,12 @@
     "static/media/Digital-Mono.ttf": "/marketplace-react/static/media/Digital-Mono.ae951a188b593952b384.ttf",
     "static/media/Arcade.TTF": "/marketplace-react/static/media/Arcade.8f36b955d042951fd3af.TTF",
     "index.html": "/marketplace-react/index.html",
-    "main.f31f695c.css.map": "/marketplace-react/static/css/main.f31f695c.css.map",
-    "main.236e5d46.js.map": "/marketplace-react/static/js/main.236e5d46.js.map",
+    "main.0c547da8.css.map": "/marketplace-react/static/css/main.0c547da8.css.map",
+    "main.9a8797c6.js.map": "/marketplace-react/static/js/main.9a8797c6.js.map",
     "787.c23b093c.chunk.js.map": "/marketplace-react/static/js/787.c23b093c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f31f695c.css",
-    "static/js/main.236e5d46.js"
+    "static/css/main.0c547da8.css",
+    "static/js/main.9a8797c6.js"
   ]
 }
